@@ -63,6 +63,7 @@ export default function InputTask(props) {
     
     return (
         <>
+        <p>Proyecto modificado</p>
             <Grid centered columns={2}>
                 <Input type="text" action>
                     <Input 
